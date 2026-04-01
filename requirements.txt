@@ -1,0 +1,7 @@
+Flask==2.2.5
+requests==2.24.0
+scikit-learn>=1.5.0
+pandas==1.5.3
+spacy==3.4.4
+Flask-Cors==3.0.10
+Flask-SQLAlchemy==3.0.2
